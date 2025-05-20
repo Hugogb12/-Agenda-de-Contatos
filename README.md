@@ -1,4 +1,4 @@
-# -Agenda-de-Contatos
+# Agenda-de-Contatos
 Teste Técnico para Programador Júnior Full Stack
 
 ## Como iniciar:
